@@ -24,7 +24,6 @@ I love to build cool interfaces
  <a href="https://t.me/Denis231182" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram" /> </a>
 </p>
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DeniXPlore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeniXplore&stroke=0f172a&background=134e4a&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
