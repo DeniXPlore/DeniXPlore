@@ -7,8 +7,6 @@ Frontend Developer
 I love to build cool interfaces
 
 * 🌍  I'm based in Chelyabinsk
-* ✉️  You can contact me at [denisemelanov53635@gmail.com](mailto:denisemelanov53635@gmail.com)
-* 🧠  I'm learning Typescript, NextJS
 * 🤝  I'm open to collaborating on Fullstack projects
 * ⚡  I like calisthenics as a way to spend my free time
 
