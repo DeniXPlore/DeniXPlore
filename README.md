@@ -26,5 +26,10 @@ I love to build cool interfaces
 
 
 <a href="http://www.github.com/DeniXPlore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeniXplore&stroke=0f172a&background=134e4a&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DeniXPlore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeniXPlore&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
